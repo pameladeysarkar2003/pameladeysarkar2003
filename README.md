@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me https://www.linkedin.com/in/pamela-dey-sarkar-4a8706289/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: open source contributions.
 
 <!---
 pameladeysarkar2003/pameladeysarkar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
